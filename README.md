@@ -1,6 +1,7 @@
 # PuzzleR
 
 Play puzzles such as Kakuro and Sudoku(WIP).
-Enjoy!
+
+Enjoy! 
 
 [Here](https://puzzler-app.herokuapp.com/)
