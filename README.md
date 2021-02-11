@@ -1,4 +1,4 @@
-# puzzleR
+# PuzzleR
 
 Play puzzles such as Kakuro and Sudoku(WIP).
 Enjoy!
